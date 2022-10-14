@@ -1,8 +1,8 @@
 # Phenology-Analysis
 Plant Phenology study with IPF
 
-##Study Parameters
+## Study Parameters
 
-##Analysis
+## Analysis
 
-##Future Questions
+## Future Questions
