@@ -1,4 +1,8 @@
 # Phenology Analysis
+<img
+     src="phenology_photos/IMG_8698.jpeg"
+     width="700">
+     
 Alpine Wildflower Phenology study conducted by the Independence Pass Foundation (IPF): This analysis will begin to compare the result of the study over the last few years and incoorporate some weather data in order to see if any relationships or trends can be determined between summer rain or winter snow and the apparent health of the wildflowers. It is recognized that more data will be needed to draw any conclusions about weather and climate trends and their impacts on high altitude wildflowers; this analysis is initial and will be adjusted and modified as more questions come up and more data is collected. The length and timing of blooms is of particular interest due to declining populations of pollinators and their apparent delayed appearance on the Pass each year.
 
 From the IPF Executive Director, Karin Teague:
@@ -12,7 +16,35 @@ The study takes place each year from June though September at the Upper Lost Man
 * Transect 3: This transect is at Linkins Lake and near apline wetlands that exist near the outlet of the lake, very wet. Elevation: 12,031ft
 * Transect 4: This transect is the highest in elevation on a south facing hillside above the lake. This is the most alpine of the transects and fairly dry and rocky. Elevation: 12,204ft
 
-[Photo of Transect 3, demonstrating transect specs](phenology_photos/IMG_8551.jpeg)
+<img
+     src="phenology_photos/IMG_8551.jpeg"
+     title="Transect 3"
+     width="400">
+     
 ## Analysis
+<img
+     src="phenology_photos/IMG_8689.jpeg"
+     width="300">
+
+Comparing differnt years at each transect
+
+![Transect 1 Comparing Years](Screenshots/BloomComparison_1.png)
+
+![Transect 2 Comparing Years](Screenshots/BloomComparison_2.png)
+
+![Transect 3 Comparing Years](Screenshots/BloomCoparison_3.png)
+
+![Transect 4 Comparing Years](Screenshots/TotalBloomComparison_4.png)
+
+
+Comparing transects in each year
+
+![2020](Screenshots/transectCompare_2020.png)
+
+![2021](Screenshots/transectCompare_2021.png)
+
+![2022](Screenshots/transectCompare2022.png)
+
+
 
 ## Future Questions
