@@ -49,10 +49,17 @@ One question we hoped to answer is about the timing of the blooms; in order to s
 * Transect 3: Pedicularis sudetica, Antenaria corymbosa, Bistorta vivipara
 * Transect 4: Soldiago simplex var. nanum, Sedum lanceolatum, Draba aurea
 
-For each transect the species average bloom lengths:
+
+##### Transect 1 species average bloom length: Total species found in plot throught the study is 39
 ![Transect 1](species_average_blooms/transect1_species.png)
+
+##### Transect 2 species average bloom length: Total species found in plot throught the study is 24
 ![Transect 2](species_average_blooms/transect2_species.png)
+
+##### Transect 3 species average bloom length: Total species found in plot throught the study is 27
 ![Transect 3](species_average_blooms/transect3_species.png)
+
+##### Transect 4 species average bloom length: Total species found in plot throught the study is 29
 ![Transect 4](species_average_blooms/transect4_species.png)
 
 ## Future Questions
