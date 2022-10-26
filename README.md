@@ -15,11 +15,6 @@ The study takes place each year from June though September at the Upper Lost Man
 * Transect 2: This transect is slightly higher in elevation, on a sunny hillside that is fairly dry and southeast facing. Elevation: 11,722ft
 * Transect 3: This transect is at Linkins Lake and near apline wetlands that exist near the outlet of the lake, very wet. Elevation: 12,031ft
 * Transect 4: This transect is the highest in elevation on a south facing hillside above the lake. This is the most alpine of the transects and fairly dry and rocky. Elevation: 12,204ft
-
-<img
-     src="phenology_photos/IMG_8551.jpeg"
-     title="Transect 3"
-     width="400">
      
 ## Analysis
 <img
@@ -45,6 +40,19 @@ Comparing transects in each year
 
 ![2022](Screenshots/transectCompare2022.png)
 
+### Results
+One question we hoped to answer is about the timing of the blooms; in order to see which species bloom when and for how long, I calculated for how many weeks each species blooms for. This can give us an idea of generally how long each species blooms in the summer months and then we can look at some weather data to see if this has influences over that. The analysis then averages the length each species in each transect bloomed for over the three years of study so far. The results of this show that some species only bloom for a week and others average 7 weeks for example. It should also be noted that some species have a second bloom later on and this is not portrayed in the average weeks blooming for each species. A few that bloomed again include: Potentilla glaucophylla, Viola adunca, and Sibbaldia procumbens
 
+#### Longest blooming species on average: 
+* Transect 1: Aconitum columbianum, Senecio triangularis, Rhodiola rhodanthum
+* Transect 2: Achillea millefolium, Antennaria corymbosa, Heterotheca pumila
+* Transect 3: Pedicularis sudetica, Antenaria corymbosa, Bistorta vivipara
+* Transect 4: Soldiago simplex var. nanum, Sedum lanceolatum, Draba aurea
+
+For each transect the species average bloom lengths:
+![Transect 1](species_average_blooms/transect1_species.png)
+![Transect 2](species_average_blooms/transect2_species.png)
+![Transect 3](species_average_blooms/transect3_species.png)
+![Transect 4](species_average_blooms/transect4_species.png)
 
 ## Future Questions
