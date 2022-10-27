@@ -1,7 +1,10 @@
 # Phenology Analysis
 <img
      src="phenology_photos/IMG_8698.jpeg"
-     width="700">
+     width="600">
+     <img
+     src="phenology_photos/IMG_8689.jpeg"
+     width="340">
      
 Alpine Wildflower Phenology study conducted by the Independence Pass Foundation (IPF): This analysis will begin to compare the result of the study over the last few years and incoorporate some weather data in order to see if any relationships or trends can be determined between summer rain or winter snow and the apparent health of the wildflowers. It is recognized that more data will be needed to draw any conclusions about weather and climate trends and their impacts on high altitude wildflowers; this analysis is initial and will be adjusted and modified as more questions come up and more data is collected. The length and timing of blooms is of particular interest due to declining populations of pollinators and their apparent delayed appearance on the Pass each year.
 
@@ -17,34 +20,36 @@ The study takes place each year from June though September at the Upper Lost Man
 * Transect 4: This transect is the highest in elevation on a south facing hillside above the lake. This is the most alpine of the transects and fairly dry and rocky. Elevation: 12,204ft
      
 ## Analysis
-<img
-     src="phenology_photos/IMG_8689.jpeg"
-     width="300">
 
 ### Weather Data
 In order to make determinations about the impacts of weather and climate on wildflower species on Independence Pass, various weather maetrics are provided here. It is acknowledged that many years of data will be necessary to draw any menaingful conclusions about climate change impacts. The hope here is that some anecdotal observations and correlations can guide future research into the subject, or at least keep us looking for proper metrics and hwo to pair it with the study. Below I have listed from the Independence Pass Snotel site #542 some precipition statistcs from the years that correlate to the study. It should be noted that this weather station is at Latitude: 39 deg; 5 min N, Longitude: 106 deg; 37 min W and an Elevation of 10598 feet, which is lower than the area of study. This data was selected over the ACGI weather station at the summit because it has accumulative precipitation totals, whereas the summit station provides snow depth. The data was also more consistent and seemed more accurate; for instance there are sometimes months of data missing. It should be noted that the snow depths at the top fo the Pass are significantly higher. The 2019 max snow depth is included for comparison. It should be noted that the data/stats refers to water year (October 1-September 30) vs. calendar year.
 
 ##### Yearly Precip Stats (inches)
-accum_precip_2019 = 32.9 (inches of water)
-max_sn_depth_2019= 81 (inches of snow)
-acgi_max_depth_2019 = 57 (in of snow)
-melt_date_2019 = 6/12/2019
-28.8/32.9 (inches of water)= 87.5% fell as snow
 
-accum_precip_2020 = 28.1
-max_sn_depth_2020= 63
-melt_date_2021 = 5/23/2020
-21.4/28.1*100= 76.2% fell as snow
+accum_precip_2019 = 32.9 (inches of water)\
+max_sn_depth_2019 = 81 (inches of snow)\
+acgi_max_depth_2019 = 57 (in of snow)\
+melt_date_2019 = 6/12/2019\
+28.8/32.9 (inches of water) = 87.5% fell as snow
 
-accum_precip_2021 = 25.7
-max_sn_depth_2021= 54
-melt_date_2021 = 5/24/2021
-17.6/25.7*100=68.5% fell as snow
 
-accum_precip_2022 = 28.3
-max_sn_depth_2022= 53
-melt_date_2019 = 6/3/2022
-18.9/28.3*100 = 66.7% fell as snow
+accum_precip_2020 = 28.1\
+max_sn_depth_2020 = 63\
+melt_date_2021 = 5/23/2020\
+21.4/28.1 = 76.2% fell as snow
+
+
+accum_precip_2021 = 25.7\
+max_sn_depth_2021 = 54\
+melt_date_2021 = 5/24/2021\
+17.6/25.7 = 68.5% fell as snow
+
+
+accum_precip_2022 = 28.3\
+max_sn_depth_2022 = 53\
+melt_date_2019 = 6/3/2022\
+18.9/28.3 = 66.7% fell as snow
+
 
 Some take aways to keep in mind when comparing the phenolgy data: 
 * The winter of 2019 had the most snow of any winter leading up to the study years. Most of that years precip fell in the winter; the summer was pretty dry. This year is included as a poptential metric for delayed superbloom type events. For instance, it has been noted that a connection between superblooms of monument plants correlate with high precip 4 years prior.
@@ -64,11 +69,20 @@ In light of the weather stats above, the following graphs show the total blooms 
 ![Transect 4 Comparing Years](Screenshots/TotalBloomComparison_4.png)
 
 
-#### Comparing transects in 2022
+#### Looking more closely at 2022
+Comparing transects in 2022:
 
 ![2022](Screenshots/transectCompare2022.png)
 
 Perhaps the most interesting peak in 2022 was the number of species found at the apline plot #4, which was consistently throughout the summer many more specieas than in previous years and blooming for longer peroids of time
+
+![2022](Screenshots/transect4_totalSpecies.png)
+
+And a look at the consistent rain recieved in summer of 2022.
+
+<img
+     src="Screenshots/2022_rain.png"
+     width="600">
 
 
 ### Results
@@ -96,3 +110,9 @@ One question we hoped to answer is about the timing of the blooms; in order to s
 Peak bloom time is consistently in July both for total blooms and species diversity. 
 
 ## Future Questions
+This analysis focused on total blooms and total species. The focus of the weather data was also on precipitation. Given more time there could be some other interesting things to look at including air temperature, soil temperature, and soil moisture content. Once there is enough data a machine learning model could be applied. Once there is more data the weather data could be further refined and compared.
+
+### Some things to consider for future study:
+* Are there any noteable superblooms? And can they be traced back to an unusual weather event?
+* If the snow melts earlier in the year, are the wild flowers blooming earlier? How can this be paired with pollinator studies?
+* Which plants tend to thrive during the hotter, drier summers?
