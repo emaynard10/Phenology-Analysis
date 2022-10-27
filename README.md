@@ -21,7 +21,39 @@ The study takes place each year from June though September at the Upper Lost Man
      src="phenology_photos/IMG_8689.jpeg"
      width="300">
 
-Comparing differnt years at each transect
+### Weather Data
+In order to make determinations about the impacts of weather and climate on wildflower species on Independence Pass, various weather maetrics are provided here. It is acknowledged that many years of data will be necessary to draw any menaingful conclusions about climate change impacts. The hope here is that some anecdotal observations and correlations can guide future research into the subject, or at least keep us looking for proper metrics and hwo to pair it with the study. Below I have listed from the Independence Pass Snotel site #542 some precipition statistcs from the years that correlate to the study. It should be noted that this weather station is at Latitude: 39 deg; 5 min N, Longitude: 106 deg; 37 min W and an Elevation of 10598 feet, which is lower than the area of study. This data was selected over the ACGI weather station at the summit because it has accumulative precipitation totals, whereas the summit station provides snow depth. The data was also more consistent and seemed more accurate; for instance there are sometimes months of data missing. It should be noted that the snow depths at the top fo the Pass are significantly higher. The 2019 max snow depth is included for comparison. It should be noted that the data/stats refers to water year (October 1-September 30) vs. calendar year.
+
+##### Yearly Precip Stats (inches)
+accum_precip_2019 = 32.9 (inches of water)
+max_sn_depth_2019= 81 (inches of snow)
+acgi_max_depth_2019 = 57 (in of snow)
+melt_date_2019 = 6/12/2019
+28.8/32.9 (inches of water)= 87.5% fell as snow
+
+accum_precip_2020 = 28.1
+max_sn_depth_2020= 63
+melt_date_2021 = 5/23/2020
+21.4/28.1*100= 76.2% fell as snow
+
+accum_precip_2021 = 25.7
+max_sn_depth_2021= 54
+melt_date_2021 = 5/24/2021
+17.6/25.7*100=68.5% fell as snow
+
+accum_precip_2022 = 28.3
+max_sn_depth_2022= 53
+melt_date_2019 = 6/3/2022
+18.9/28.3*100 = 66.7% fell as snow
+
+Some take aways to keep in mind when comparing the phenolgy data: 
+* The winter of 2019 had the most snow of any winter leading up to the study years. Most of that years precip fell in the winter; the summer was pretty dry. This year is included as a poptential metric for delayed superbloom type events. For instance, it has been noted that a connection between superblooms of monument plants correlate with high precip 4 years prior.
+* Both 2021 and 2022 had more rain than 2020 during the typical monsoon months
+* The first years of the study had somewhat consistent accumulative precipitation numbers and melt dates
+* Of the three years 2020 had more snow 
+
+### Comparing different years at each transect
+In light of the weather stats above, the following graphs show the total blooms at each transect comparing the three study years. Peak bloom time is consistently in July both for total blooms and species diversity. 2022 shows a trend of more blooming plants in the apline transect #4, though 2022 had generally higher numbers than the previous two years. When trying to draw conclusions as this relates to weather, 2022 had the lowest percentage of precip that fell as snow, indicating the wildflowers potentially responded well to the consistent rain this summer.
 
 ![Transect 1 Comparing Years](Screenshots/BloomComparison_1.png)
 
@@ -32,13 +64,12 @@ Comparing differnt years at each transect
 ![Transect 4 Comparing Years](Screenshots/TotalBloomComparison_4.png)
 
 
-Comparing transects in each year
-
-![2020](Screenshots/transectCompare_2020.png)
-
-![2021](Screenshots/transectCompare_2021.png)
+#### Comparing transects in 2022
 
 ![2022](Screenshots/transectCompare2022.png)
+
+Perhaps the most interesting peak in 2022 was the number of species found at the apline plot #4, which was consistently throughout the summer many more specieas than in previous years and blooming for longer peroids of time
+
 
 ### Results
 One question we hoped to answer is about the timing of the blooms; in order to see which species bloom when and for how long, I calculated for how many weeks each species blooms for. This can give us an idea of generally how long each species blooms in the summer months and then we can look at some weather data to see if this has influences over that. The analysis then averages the length each species in each transect bloomed for over the three years of study so far. The results of this show that some species only bloom for a week and others average 7 weeks for example. It should also be noted that some species have a second bloom later on and this is not portrayed in the average weeks blooming for each species. A few that bloomed again include: Potentilla glaucophylla, Viola adunca, and Sibbaldia procumbens
@@ -61,5 +92,7 @@ One question we hoped to answer is about the timing of the blooms; in order to s
 
 ##### Transect 4 species average bloom length: Total species found in plot throught the study is 29
 ![Transect 4](species_average_blooms/transect4_species.png)
+
+Peak bloom time is consistently in July both for total blooms and species diversity. 
 
 ## Future Questions
