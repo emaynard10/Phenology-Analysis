@@ -20,7 +20,7 @@ The study takes place each year from June though September at the Upper Lost Man
 * Transect 4: This transect is the highest in elevation on a south facing hillside above the lake. This is the most alpine of the transects and fairly dry and rocky. Elevation: 12,204ft
      
 ## Analysis
-To view the graphs interactively, visit Tableau Public at this [link]().
+To view the graphs interactively, visit Tableau Public at this [link](https://public.tableau.com/app/profile/emily.maynard/viz/Phenology_IPF/TotalBlooms?publish=yes) and [here](https://public.tableau.com/app/profile/emily.maynard/viz/Phenology_IPF2/LengthofBlooms?publish=yes).
 
 ### Weather Data
 In order to make determinations about the impacts of weather and climate on wildflower species on Independence Pass, various weather metrics are provided here. It is acknowledged that many years of data will be necessary to draw any meaningful conclusions about climate change impacts. The hope here is that some anecdotal observations and correlations can guide future research into the subject, or at least keep us looking for proper metrics and how to pair it with the study. Below I have listed from the Independence Pass Snotel site #542 some precipition statistcs from the years that correlate to the study. It should be noted that this weather station is at Latitude: 39 deg; 5 min N, Longitude: 106 deg; 37 min W and an Elevation of 10598 feet, which is lower than the area of study. This data was selected over the ACGI weather station at the summit because it has accumulative precipitation totals, whereas the summit station provides snow depth. The data was also more consistent and seemed more accurate; for instance there are sometimes months of data missing from the summit station. It should be noted that the snow depths at the top fo the Pass are significantly higher. The 2019 max snow depth is included for comparison. It should also be noted that the data/stats refer to water year (October 1-September 30) vs. calendar year.
@@ -60,7 +60,7 @@ Some take aways to keep in mind when comparing the phenolgy data:
 
 ### Comparing different years at each transect
 
-![dashboard](Screenshots/dashboard_2)
+![dashboard](Screenshots/dashboard_1.png)
 In light of the weather stats above, the following graphs show the total blooms at each transect comparing the three study years. Peak bloom time is consistently in July both for total blooms and species diversity. 2022 shows a trend of more blooming plants in the alpine transect #4, though 2022 had generally higher numbers than the previous two years. When trying to draw conclusions as this relates to weather, 2022 had the lowest percentage of precip that fell as snow, indicating the wildflowers potentially responded well to the consistent rain this summer.
 
 ![Transect 1 Comparing Years](Screenshots/BloomComparison_1.png)
@@ -110,9 +110,9 @@ One question we hoped to answer is about the timing of the blooms; in order to s
 ##### Transect 4 species average bloom length: Total species found in plot throught the study is 29
 ![Transect 4](species_average_blooms/transect4_species.png)
 
-Peak bloom time is consistently in July both for total blooms and species diversity. 
+Peak bloom time is consistently in July both for total blooms and species diversity, though it varies with species. It shoudl be noted that some of the higher bloom numbers are just due to densely populated blooming plants at specific times and in specific transects. For instatance the vaccinium covers much of Transect two hence the high number of blooms.
 
-![dashboard](Screenshots/dashboard_2)
+![dashboard](Screenshots/dashboard_2.png)
 
 
 ## Future Questions
