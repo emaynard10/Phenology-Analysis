@@ -6,7 +6,7 @@
      src="phenology_photos/IMG_8689.jpeg"
      width="340">
      
-Alpine Wildflower Phenology study conducted by the Independence Pass Foundation (IPF): This analysis will begin to compare the result of the study over the last few years and incoorporate some weather data in order to see if any relationships or trends can be determined between summer rain or winter snow and the apparent health of the wildflowers. It is recognized that more data will be needed to draw any conclusions about weather and climate trends and their impacts on high altitude wildflowers; this analysis is initial and will be adjusted and modified as more questions come up and more data is collected. The length and timing of blooms is of particular interest due to declining populations of pollinators and their apparent delayed appearance on the Pass each year.
+Alpine Wildflower Phenology study conducted by the Independence Pass Foundation (IPF): This analysis will begin to compare the results of the study over the last few years and incoorporate some weather data in order to see if any relationships or trends can be determined between summer rain or winter snow and the apparent health of the wildflowers. It is recognized that more data will be needed to draw any conclusions about weather and climate trends and their impacts on high altitude wildflowers; this analysis is initial and will be adjusted and modified as more questions come up and more data is collected. The length and timing of blooms is of particular interest due to declining populations of pollinators and their apparent delayed appearance on the Pass each year.
 
 From the IPF Executive Director, Karin Teague:
 The phenology study is intended to provide baseline data on the species types, numbers, and timing of bloom of plants living in the alpine and sub-alpine regions of Independence Pass, which will be invaluable in assessing the effects of climate change in our region, and provide insight as to which types of plants will most successfully be used in IPF revegetation projects. We hope also these studies will help foster in our community a greater curiosity and intimacy with our local flora, which many people already have a great affinity for, as in time (after some number of years of data collection) we are able to share our findings more broadly.
@@ -20,9 +20,10 @@ The study takes place each year from June though September at the Upper Lost Man
 * Transect 4: This transect is the highest in elevation on a south facing hillside above the lake. This is the most alpine of the transects and fairly dry and rocky. Elevation: 12,204ft
      
 ## Analysis
+To view the graphs interactively, visit Tableau Public at this [link]().
 
 ### Weather Data
-In order to make determinations about the impacts of weather and climate on wildflower species on Independence Pass, various weather maetrics are provided here. It is acknowledged that many years of data will be necessary to draw any menaingful conclusions about climate change impacts. The hope here is that some anecdotal observations and correlations can guide future research into the subject, or at least keep us looking for proper metrics and hwo to pair it with the study. Below I have listed from the Independence Pass Snotel site #542 some precipition statistcs from the years that correlate to the study. It should be noted that this weather station is at Latitude: 39 deg; 5 min N, Longitude: 106 deg; 37 min W and an Elevation of 10598 feet, which is lower than the area of study. This data was selected over the ACGI weather station at the summit because it has accumulative precipitation totals, whereas the summit station provides snow depth. The data was also more consistent and seemed more accurate; for instance there are sometimes months of data missing. It should be noted that the snow depths at the top fo the Pass are significantly higher. The 2019 max snow depth is included for comparison. It should be noted that the data/stats refers to water year (October 1-September 30) vs. calendar year.
+In order to make determinations about the impacts of weather and climate on wildflower species on Independence Pass, various weather metrics are provided here. It is acknowledged that many years of data will be necessary to draw any meaningful conclusions about climate change impacts. The hope here is that some anecdotal observations and correlations can guide future research into the subject, or at least keep us looking for proper metrics and how to pair it with the study. Below I have listed from the Independence Pass Snotel site #542 some precipition statistcs from the years that correlate to the study. It should be noted that this weather station is at Latitude: 39 deg; 5 min N, Longitude: 106 deg; 37 min W and an Elevation of 10598 feet, which is lower than the area of study. This data was selected over the ACGI weather station at the summit because it has accumulative precipitation totals, whereas the summit station provides snow depth. The data was also more consistent and seemed more accurate; for instance there are sometimes months of data missing from the summit station. It should be noted that the snow depths at the top fo the Pass are significantly higher. The 2019 max snow depth is included for comparison. It should also be noted that the data/stats refer to water year (October 1-September 30) vs. calendar year.
 
 ##### Yearly Precip Stats (inches)
 
@@ -52,13 +53,15 @@ melt_date_2019 = 6/3/2022\
 
 
 Some take aways to keep in mind when comparing the phenolgy data: 
-* The winter of 2019 had the most snow of any winter leading up to the study years. Most of that years precip fell in the winter; the summer was pretty dry. This year is included as a poptential metric for delayed superbloom type events. For instance, it has been noted that a connection between superblooms of monument plants correlate with high precip 4 years prior.
+* The winter of 2019 had the most snow of any winter leading up to the study years. Most of that years precip fell in the winter; the summer was pretty dry. This year is included as a potential metric for delayed superbloom type events. For instance, a connection between superblooms of monument plants correlate with high precip 4 years prior.
 * Both 2021 and 2022 had more rain than 2020 during the typical monsoon months
 * The first years of the study had somewhat consistent accumulative precipitation numbers and melt dates
-* Of the three years 2020 had more snow 
+* Of the three years, 2020 had more snow 
 
 ### Comparing different years at each transect
-In light of the weather stats above, the following graphs show the total blooms at each transect comparing the three study years. Peak bloom time is consistently in July both for total blooms and species diversity. 2022 shows a trend of more blooming plants in the apline transect #4, though 2022 had generally higher numbers than the previous two years. When trying to draw conclusions as this relates to weather, 2022 had the lowest percentage of precip that fell as snow, indicating the wildflowers potentially responded well to the consistent rain this summer.
+
+![dashboard](Screenshots/dashboard_2)
+In light of the weather stats above, the following graphs show the total blooms at each transect comparing the three study years. Peak bloom time is consistently in July both for total blooms and species diversity. 2022 shows a trend of more blooming plants in the alpine transect #4, though 2022 had generally higher numbers than the previous two years. When trying to draw conclusions as this relates to weather, 2022 had the lowest percentage of precip that fell as snow, indicating the wildflowers potentially responded well to the consistent rain this summer.
 
 ![Transect 1 Comparing Years](Screenshots/BloomComparison_1.png)
 
@@ -74,7 +77,7 @@ Comparing transects in 2022:
 
 ![2022](Screenshots/transectCompare2022.png)
 
-Perhaps the most interesting peak in 2022 was the number of species found at the apline plot #4, which was consistently throughout the summer many more specieas than in previous years and blooming for longer peroids of time
+Perhaps the most interesting peak in 2022 was the number of species found at the alpine plot #4, which consistently throughout the summer had many more species than in previous years and they bloomed for longer periods of time
 
 ![2022](Screenshots/transect4_totalSpecies.png)
 
@@ -108,6 +111,9 @@ One question we hoped to answer is about the timing of the blooms; in order to s
 ![Transect 4](species_average_blooms/transect4_species.png)
 
 Peak bloom time is consistently in July both for total blooms and species diversity. 
+
+![dashboard](Screenshots/dashboard_2)
+
 
 ## Future Questions
 This analysis focused on total blooms and total species. The focus of the weather data was also on precipitation. Given more time there could be some other interesting things to look at including air temperature, soil temperature, and soil moisture content. Once there is enough data a machine learning model could be applied. Once there is more data the weather data could be further refined and compared.
