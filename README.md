@@ -23,7 +23,7 @@ The study takes place each year from June though September at the Upper Lost Man
 To view the graphs interactively, visit Tableau Public at this [link](https://public.tableau.com/app/profile/emily.maynard/viz/Phenology_IPF/TotalBlooms?publish=yes) and [here](https://public.tableau.com/app/profile/emily.maynard/viz/Phenology_IPF2/LengthofBlooms?publish=yes).
 
 ### Weather Data
-In order to make determinations about the impacts of weather and climate on wildflower species on Independence Pass, various weather metrics are provided here. It is acknowledged that many years of data will be necessary to draw any meaningful conclusions about climate change impacts. The hope here is that some anecdotal observations and correlations can guide future research into the subject, or at least keep us looking for proper metrics and how to pair it with the study. Below I have listed from the Independence Pass Snotel site #542 some precipition statistcs from the years that correlate to the study. It should be noted that this weather station is at Latitude: 39 deg; 5 min N, Longitude: 106 deg; 37 min W and an Elevation of 10598 feet, which is lower than the area of study. This data was selected over the ACGI weather station at the summit because it has accumulative precipitation totals, whereas the summit station provides snow depth. The data was also more consistent and seemed more accurate; for instance there are sometimes months of data missing from the summit station. It should be noted that the snow depths at the top fo the Pass are significantly higher. The 2019 max snow depth is included for comparison. It should also be noted that the data/stats refer to water year (October 1-September 30) vs. calendar year.
+To make determinations about the impacts of weather and climate on wildflower species on Independence Pass, various weather metrics are provided here. It is acknowledged that many years of data will be necessary to draw any meaningful conclusions about climate change impacts. The hope here is that some anecdotal observations and correlations can guide future research into the subject, or at least keep us looking for proper metrics and how to pair it with the study. Below I have listed from the Independence Pass Snotel site #542 some precipitation statistcs from the years that correlate to the study. It should be noted that this weather station is at Latitude: 39 deg; 5 min N, Longitude: 106 deg; 37 min W and an Elevation of 10598 feet, which is lower than the area of study. This data was selected over the ACGI weather station at the summit because it has accumulative precipitation totals, whereas the summit station provides snow depth. The data was also more consistent and seemed more accurate; for instance there are sometimes months of data missing from the summit station. It should be noted that the snow depths at the top fo the Pass are significantly higher. The 2019 max snow depth is included for comparison. It should also be noted that the data/stats refer to water year (October 1-September 30) vs. calendar year.
 
 ##### Yearly Precip Stats (inches)
 
@@ -52,8 +52,8 @@ melt_date_2019 = 6/3/2022\
 18.9/28.3 = 66.7% fell as snow
 
 
-Some take aways to keep in mind when comparing the phenolgy data: 
-* The winter of 2019 had the most snow of any winter leading up to the study years. Most of that years precip fell in the winter; the summer was pretty dry. This year is included as a potential metric for delayed superbloom type events. For instance, a connection between superblooms of monument plants correlate with high precip 4 years prior.
+Some take aways to keep in mind when comparing the phenology data: 
+* The winter of 2019 had the most snow of any winter leading up to the study years. Most of that years precip fell in the winter; the summer was pretty dry. This year is included as a potential metric for delayed superbloom type events. For instance, a connection between super blooms of monument plants correlates with high precip 4 years prior.
 * Both 2021 and 2022 had more rain than 2020 during the typical monsoon months
 * The first years of the study had somewhat consistent accumulative precipitation numbers and melt dates
 * Of the three years, 2020 had more snow 
@@ -61,7 +61,7 @@ Some take aways to keep in mind when comparing the phenolgy data:
 ### Comparing different years at each transect
 
 ![dashboard](Screenshots/dashboard_1.png)
-In light of the weather stats above, the following graphs show the total blooms at each transect comparing the three study years. Peak bloom time is consistently in July both for total blooms and species diversity. 2022 shows a trend of more blooming plants in the alpine transect #4, though 2022 had generally higher numbers than the previous two years. When trying to draw conclusions as this relates to weather, 2022 had the lowest percentage of precip that fell as snow, indicating the wildflowers potentially responded well to the consistent rain this summer.
+Considering the weather stats above, the following graphs show the total blooms at each transect comparing the three study years. Peak bloom time is consistently in July both for total blooms and species diversity. 2022 shows a trend of more blooming plants in the alpine transect #4, though 2022 had generally higher numbers than the previous two years. When trying to draw conclusions as this relates to weather, 2022 had the lowest percentage of precip that fell as snow, indicating the wildflowers potentially responded well to the consistent rain this summer.
 
 ![Transect 1 Comparing Years](Screenshots/BloomComparison_1.png)
 
@@ -98,19 +98,19 @@ One question we hoped to answer is about the timing of the blooms; in order to s
 * Transect 4: Soldiago simplex var. nanum, Sedum lanceolatum, Draba aurea
 
 
-##### Transect 1 species average bloom length: Total species found in plot throught the study is 39
+##### Transect 1 species average bloom length: Total species found in plot throughout the study is 39
 ![Transect 1](species_average_blooms/transect1_species.png)
 
-##### Transect 2 species average bloom length: Total species found in plot throught the study is 24
+##### Transect 2 species average bloom length: Total species found in plot throughout the study is 24
 ![Transect 2](species_average_blooms/transect2_species.png)
 
-##### Transect 3 species average bloom length: Total species found in plot throught the study is 27
+##### Transect 3 species average bloom length: Total species found in plot throughout the study is 27
 ![Transect 3](species_average_blooms/transect3_species.png)
 
-##### Transect 4 species average bloom length: Total species found in plot throught the study is 29
+##### Transect 4 species average bloom length: Total species found in plot throughout the study is 29
 ![Transect 4](species_average_blooms/transect4_species.png)
 
-Peak bloom time is consistently in July both for total blooms and species diversity, though it varies with species. It shoudl be noted that some of the higher bloom numbers are just due to densely populated blooming plants at specific times and in specific transects. For instatance the vaccinium covers much of Transect two hence the high number of blooms.
+Peak bloom time is consistently in July both for total blooms and species diversity, though it varies with species. It shoudl be noted that some of the higher bloom numbers are just due to densely populated blooming plants at specific times and in specific transects. For instance the vaccinium covers much of Transect 2 hence the high number of blooms.
 
 ![dashboard](Screenshots/dashboard_2.png)
 
@@ -119,6 +119,6 @@ Peak bloom time is consistently in July both for total blooms and species divers
 This analysis focused on total blooms and total species. The focus of the weather data was also on precipitation. Given more time there could be some other interesting things to look at including air temperature, soil temperature, and soil moisture content. Once there is enough data a machine learning model could be applied. Once there is more data the weather data could be further refined and compared.
 
 ### Some things to consider for future study:
-* Are there any noteable superblooms? And can they be traced back to an unusual weather event?
+* Are there any notable super blooms? And can they be traced back to an unusual weather event?
 * If the snow melts earlier in the year, are the wild flowers blooming earlier? How can this be paired with pollinator studies?
 * Which plants tend to thrive during the hotter, drier summers?
